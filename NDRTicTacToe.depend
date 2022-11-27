@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669574657 source:c:\users\nader naderi\onedrive\documents\codeblocks\roguelike\ndrtictactoe\main.cpp
+	<iostream>
+	<conio.h>
+
